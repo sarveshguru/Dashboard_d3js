@@ -65,7 +65,7 @@ The application uses D3.js to create various data visualization charts and graph
 
 ### 🌐 Live Demo
 
-Check out the live demo: [Admin Dashboard](https://blackcoffer0dashboard.netlify.app/)
+Check out the live demo: [Blackcoffer Dashboard](https://blackcoffer0dashboard.netlify.app/)
 
 ### 🚀 Getting Started
 
