@@ -1,6 +1,13 @@
-# Data Visualization Dashboard
+# Data Visualization Dashboard with D3.js integration
 
-This project is a comprehensive data visualization dashboard built using the MERN stack (MongoDB, Express.js, React, Node.js) and D3.js for creating interactive and responsive data visualizations. The project efficiently handles large datasets, manages state and data flow, and provides various features for data analysis and insights.
+![Website](https://img.shields.io/website?url=https://blackcoffer0dashboard.netlify.app/)
+![Last Commit](https://img.shields.io/github/last-commit/sarveshguru/Dashboard_d3js) 
+![Total Commits](https://img.shields.io/github/commit-activity/y/sarveshguru/Dashboard_d3js)
+![Commit Activity](https://img.shields.io/github/commit-activity/m/sarveshguru/Dashboard_d3js)
+![Contributors](https://img.shields.io/github/contributors/sarveshguru/Dashboard_d3js)
+
+
+> This project is a comprehensive data visualization dashboard built using the MERN stack (MongoDB, Express.js, React, Node.js) and D3.js for creating interactive and responsive data visualizations. The project efficiently handles large datasets, manages state and data flow, and provides various features for data analysis and insights.
 
 ## Server-Side
 
@@ -55,3 +62,46 @@ The application uses D3.js to create various data visualization charts and graph
 2. **Data Filtering and Aggregation:** Users can filter and aggregate data based on specific criteria, such as selecting sectors, time periods, or countries. D3.js provides data manipulation techniques to enable these functionalities.
 3. **Data Analysis:** The application provides data analysis and insights by calculating statistical and mathematical functions.
 4. **Integration with External APIs:** The application integrates with external APIs to fetch data related to specific topics. Axios is used to make requests to these APIs and handle asynchronous data fetching.
+
+### 🌐 Live Demo
+
+Check out the live demo: [Admin Dashboard](https://blackcoffer0dashboard.netlify.app/)
+
+### 🚀 Getting Started
+
+To get started with the project, follow these steps:
+
+#### Client Side
+
+1. Navigate to the client directory:
+   ```bash
+   cd client
+   
+2. Install dependencies:
+   ```bash
+   npm install
+
+3. Run the client:
+   ```bash
+   npm start
+
+#### Server Side
+
+1. Navigate to the server directory:
+   ```bash
+   cd server
+
+2. Install dependencies:
+   ```bash
+   npm install
+
+3. Run the server:
+   ```bash
+   npm start
+
+### 🧑‍💻 Author & Contact
+
+- **Author**: [Sarvesh Choudhary](https://github.com/sarveshguru)
+- **LinkedIn**: [Sarvesh Choudhary](https://www.linkedin.com/in/your-profile)
+- **Portfolio**: [My Portfolio Website](https://sarvesh-choudhary-portfolio.netlify.app)
+- **Email**: [E-mail](mailto:csarvesh288@gmail.com)
